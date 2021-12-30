@@ -1,0 +1,37 @@
+{
+    "intents": {
+        "hello": {
+            "examples": [
+                "Hello",
+                "Hi"
+            ],
+            "responses": [
+                "Hello from Bot!"
+            ]
+        },
+        "bye": {
+            "examples": [
+                "Bye",
+                "Good bye",
+                "See you"
+            ],
+            "responses": [
+                "Good bye!"
+            ]
+        },
+        "how_are_you": {
+            "examples": [
+                "How are you",
+                "How do you do",
+                "How are you doing",
+                "What's up"
+            ],
+            "responses": [
+                "Good!",
+                "Fine!",
+                "Good, how are you?",
+                "I'm doing well, thank you!"
+            ]
+        }
+    }
+}
